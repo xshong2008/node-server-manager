@@ -1,0 +1,21 @@
+{
+    "main": "index.html",
+    /* APP的主入口，文件名任意；必选 */
+    "name": "node-server-manager",
+    /* APP的名称，必须具备唯一性，且符合正常变量命名；必选 */
+    "description": "Node服务器管理",
+    /* APP的简单描述 */
+    "version": "0.1.0",
+    /* APP的版本号 */
+    "keywords": ["node-server-manager", "node-webkit"],
+    /* APP的关键字，搜索APP时用到 */
+    "window": { /* APP的窗口属性 */
+        "icon": "link.png",
+        "toolbar": true,
+        "width": 800,
+        "height": 600,
+        "frame": true
+    },
+    "dependencies": {
+    }
+}
